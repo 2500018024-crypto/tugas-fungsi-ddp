@@ -26,7 +26,7 @@ int main() {
     int pilihan;
 
     cout << "=============================" << endl;
-    cout << "   KALKULATOR SEDERHANA" << endl;
+    cout << "|  KALKULATOR SEDERHANA     |" << endl;
     cout << "=============================" << endl;
 
     cout << "Masukkan angka pertama: ";
@@ -65,3 +65,4 @@ int main() {
     cout << "=======================" << endl;
     return 0;
 }
+
